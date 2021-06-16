@@ -4,6 +4,15 @@ body {
     flex-direction: column;
   }
 
-  main {
+main {
     flex: 1 0 auto;
   }
+
+#movie {
+
+    background-image: url('https://cinesite-media-cloud-production.s3-accelerate.amazonaws.com/2020/09/daniel-craig-helped-design-the-omega-watch-james-bond-wears-in-no-time-to-die-139611_1.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 25vh;
+
+}
